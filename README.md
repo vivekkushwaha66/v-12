@@ -1,6 +1,6 @@
-# V12
+# V-12
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+This project is show casing the UI Library Components
 
 ## Development server
 
